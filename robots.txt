@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ostater.github.io/sitemap
+Sitemap: https://ostater.github.io/app/sitemap
+Sitemap: https://ostater.github.io/assets/sitemap
+Sitemap: https://ostater.github.io/css/sitemap
+Sitemap: https://ostater.github.io/includes/sitemap
+Sitemap: https://ostater.github.io/item/sitemap
+Sitemap: https://ostater.github.io/src/sitemap
